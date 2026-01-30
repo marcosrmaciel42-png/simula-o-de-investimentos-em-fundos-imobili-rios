@@ -84,4 +84,4 @@ Para começar a simular seus investimentos, siga os passos abaixo:
 
 ## ⚠️ Aviso Legal
 
-Esta planilha é uma ferramenta de simulação e não constitui uma recomendação de investimento. Os resultados são baseados em previsões e estimativas que não podem se concretizar no futuro. O investimento em Fundos Imobiliários envolve riscos, e o desempenho passado não é garantia de resultados futuros. Consulte sempre um certificado profissional de investimentos antes de tomar qualquer decisão financeira.
+Esta planilha é uma ferramenta de simulação e não constitui uma recomendação de investimento. Os resultados são baseados em previsões e estimativas que não podem se concretizar no futuro. O investimento em Fundos Imobiliários envolve riscos, e o desempenho passado não é garantia de resultados futuros. Consulte sempre um consultor financeiro de investimentos antes de tomar qualquer decisão.
