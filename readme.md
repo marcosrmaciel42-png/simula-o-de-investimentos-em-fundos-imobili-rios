@@ -31,16 +31,21 @@ Para que o usuário compreenda como os dados são processados, a planilha utiliz
 
 ### 1. Taxa Real de Juros
 Não basta subtrair a inflação do rendimento. Para encontrar o ganho real de poder de compra, utilizamos a **Equação de Fisher**:
+
 $$i_{real} = \frac{1 + i_{nominal}}{1 + i_{inflação}} - 1$$
 
 ### 2. Acúmulo de Patrimônio (Juros Compostos)
 A projeção de crescimento utiliza a fórmula de **Valor Futuro ($FV$)** de uma série de depósitos mensais:
+
 $$FV = PMT \times \frac{(1 + i)^n - 1}{i}$$
+
 *Onde: $PMT$ é o valor investido mensalmente, $i$ é a taxa de juros mensal e $n$ é o número de meses.*
 
 ### 3. Poder de Compra (Valor Presente)
 Para ajustar os valores milionários do futuro à realidade atual (deflacionar), aplicamos:
+
 $$VP = \frac{VF}{(1 + i_{inflação})^n}$$
+
 *Isso permite saber quanto o patrimônio acumulado em 30 anos valeria com os preços de hoje.*
 
 ---
@@ -70,7 +75,7 @@ A alocação percentual é ajustada automaticamente ao selecionar um dos seguint
 
 Para começar a simular seus investimentos, siga os passos abaixo:
 
-1. **Download:** [Clique aqui para baixar a Planilha de Simulação](https://github.com/marcosrmaciel42-png/Ferramenta-de-Controle-de-Investimentos/raw/refs/heads/main/Simula%C3%A7%C3%A3o%20de%20investimentos%20em%20fundos%20imobili%C3%A1rios..xlsx)
+1. **Download:** [[Clique aqui para baixar a Planilha de Simulação](https://github.com/marcosrmaciel42-png/simula-o-de-investimentos-em-fundos-imobili-rios/raw/refs/heads/main/Simula%C3%A7%C3%A3o%20de%20investimentos%20em%20fundos%20imobili%C3%A1rios..xlsx)]
 2. **Ajuste as Variáveis:** Vá para a aba **Calculadora Financeira** e preencha seus dados nas Variáveis de Entrada (Salário, Investimento, Taxas).
 3. **Selecione o Perfil:** Na mesma aba, escolha o seu Perfil de Investidor (Conservador, Moderado ou Agressivo).
 4. **Visualize:** Volte ao **Dashboard** para ver os gráficos e indicadores atualizados com suas projeções personalizadas.
